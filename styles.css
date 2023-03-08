@@ -1,0 +1,66 @@
+body {
+  color: #3c6bf3;
+  font-family:Verdana, sans-serif;
+  font-size: 13px;
+}
+
+#wapp-container {
+  width: 620px;
+  margin: 0 auto;
+  border: 1px solid #fedba4;
+  border-radius: 5px;
+  padding: 15px;
+  padding-bottom: 40px;
+  text-align:center;
+  background-image: url(https://1.bp.blogspot.com/-BtBucgQQUF4/YOih-GsTF7I/AAAAAAAAiqM/8alk61BgtgQMqtWqhDa2ci1oUl-55LwDACLcBGAsYHQ/s2535/v2-09072021-GRADIENT-HD.png);
+}
+
+hr {
+  width: 500px;
+  margin-top:-35px;
+  border: .5px solid white;
+}
+
+h1 {
+  text-shadow: 0px 0px 5px rgba(171,111,18,0.8);
+  font-variant: small-caps;
+  font-family:'Bebas Neue', cursive;
+  font-size:64px;
+  margin-top:-10px;
+  -webkit-text-stroke: .2px #3a6af3;
+  color: #9ba3ff;
+}
+
+
+h2 {
+  font-size:26px;
+}
+
+
+h3 {
+  margin-top: 10px;
+}
+
+
+h4 {
+  font-size:30px;
+  margin-bottom:-15px;
+  margin-top:5px;
+}
+
+
+h5 {
+
+}
+
+
+.cityweather {
+  width:300px;
+  border:1px solid white;
+  margin:0 auto;
+  margin-top:20px;
+  background-color:rgba(171,111,18,0.2);
+  border-radius:5px;
+  box-shadow: 0px 0px 15px rgba(171,111,18,0.3);
+  color: white;
+}
